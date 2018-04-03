@@ -1,20 +1,20 @@
 
 icon1:
-  title: Important Documents
+  title: Documents
+  link: documents/
   text: >-
-    The Trust was set up in 1923, when the estate was gifted by Lord Leverhulme.
-    Many of the documents associated with the Trust are in the public domain. Links to them can be found here.
+    The Trust is a charity, set up in 1923 when the estate was gifted by Lord Leverhulme.
+    Many of the documents associated with the Trust are in the public domain.
 
 icon2:
-  title: Election Process
+  title: Elections
+  link: elections/
   text: >-
-    The Trust is governed by ten trustees, who serve a six year term.
-    Every three years, the five trustees who are at the end of term stand down, and an election is
-    held to replace them. More information here.
+    The Trust is governed by ten trustees, who are elected by the public and serve a six year term. Elections are held every three years, with five trustees elected each time.
 
 icon3:
-  title: Reform
+  title: Reforms
+  link: reforms/
   text: >-
     The Trust was created almost 100 years ago. A lot has changed since then, but the deeds that govern the Trust basically haven't.
     They need updating to make them fit for purpose in the modern world. We are campaigning for this to happen.
-    More information here.
