@@ -10,4 +10,4 @@ It is maintained by volunteers, and is not affiliated with or endorsed by the Tr
 
 Information on this website is accurate to the best of our knowledge, and all documents and other content linked to from this site is believed to be in the public domain.
 
-Please contact us if you spot any mistakes or have other information to share. 
+Please [contact us](mailto:notthestornowaytrust@protonmail.com) if you spot any mistakes or have other information to share. 
