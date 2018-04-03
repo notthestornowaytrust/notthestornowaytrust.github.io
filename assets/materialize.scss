@@ -1,0 +1,20 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+
+$trust-red: #6A0205;
+
+.trust-red {
+  background-color: $trust-red !important;
+};
+
+.trust-red-text {
+  color: $trust-red !important;
+};
+
+$primary-color: $trust-red;
+$secondary-color: $trust-red;
+$link-color: #2196F3;
+
+@import "materialize/materialize";
