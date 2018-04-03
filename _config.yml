@@ -18,8 +18,8 @@ email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   This website exists to share some important information on the Stornoway Trust,
   to keep an eye on what it's doing, and to push for its reform.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://samdeane.github.io/notrust" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/notrust" # the subpath of your site, e.g. /blog
+url: "https://samdeane.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: samdeane
 github_username:  samdeane
 
