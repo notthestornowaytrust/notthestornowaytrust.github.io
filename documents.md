@@ -8,7 +8,7 @@ The Trust used to have a website, but it’s been down for the last couple of ye
 
 You can view an archived version of it from July 2015 [here](http://web.archive.org/web/20150712012140/http://www.stornowaytrust.org.uk/).
 
-The original Deed of Trust can be downloaded [here](https://www.dropbox.com/s/rghfhb0wjlmj0iv/DEED%20OF%20TRUST.pdf?dl=0)
+The original Deed of Trust can be downloaded [here](/assets/deeds.pdf)
 
 The OSCR is the Scottish charity regulator. Their website contains [some information on the Trust](https://www.oscr.org.uk/about-charities/search-the-register/charity-details?number=SC016206).
 
