@@ -4,15 +4,16 @@ title: Reforms
 permalink: /reforms/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+The Trust was created almost 100 years ago, and is governed by a Deed of Trust, written in 1923.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+A lot has changed since then, but apart from some minor alterations brought about by boundary changes, the deeds haven't.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Things were very different in 1923.
 
+There were different regulations governing charities, and different expectations surround how they were expected to be run.
 
-[jekyll-organization]: https://github.com/jekyll
+There were also different standards applied to what it was acceptable for a trustee of a public body to do, how much they should interfere with the day-to-day operation of the organisation, and how things like conflicts of interest should be resolved.
+
+For all of these reasons, the Deeds for the Stornoway Trust need updating, to make them fit for purpose in the modern world.
+
+We are campaigning for this to happen.

@@ -4,15 +4,10 @@ title: Elections
 permalink: /elections/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+The Trust is governed by ten elected Trustees.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Each trustee serves for a six year term.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Every three years, the five trustees who have reached the end of their term stand down, and an election is held to replace them.
 
-
-[jekyll-organization]: https://github.com/jekyll
+Trustees are allowed to stand again for re-election.

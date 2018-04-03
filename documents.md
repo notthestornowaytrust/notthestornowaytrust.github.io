@@ -4,15 +4,15 @@ title: Documents
 permalink: /documents/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+The Trust used to have a website, but it’s been down for the last couple of years (it seems to have gone down somewhere between July and November 2015).
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+You can view an archived version of it from July 2015 [here](http://web.archive.org/web/20150712012140/http://www.stornowaytrust.org.uk/).
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+The original Deed of Trust can be downloaded [here](https://www.dropbox.com/s/rghfhb0wjlmj0iv/DEED%20OF%20TRUST.pdf?dl=0)
 
+The OSCR is the Scottish charity regulator. Their website contains [some information on the Trust](https://www.oscr.org.uk/about-charities/search-the-register/charity-details?number=SC016206).
 
-[jekyll-organization]: https://github.com/jekyll
+This includes the most recently filed accounts, for:
+
+- [2015/16](https://www.oscr.org.uk/downloadfile.aspx?id=113627&type=5&charityid=SC016206&arid=203282)
+- [2016/17](https://www.oscr.org.uk/downloadfile.aspx?id=143174&type=5&charityid=SC016206&arid=226144)

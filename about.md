@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This website was set up as a focal point for the campaign to reform the Stornoway Trust.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+It is maintained by volunteers, and is not affiliated with or endorsed by the Trust in any way.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Information on this website is accurate to the best of our knowledge, and all documents and other content linked to from this site is believed to be in the public domain.
 
-
-[jekyll-organization]: https://github.com/jekyll
+Please contact us if you spot any mistakes or have other information to share. 
