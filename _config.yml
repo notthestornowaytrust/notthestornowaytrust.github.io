@@ -26,7 +26,8 @@ github_username:  samdeane
 # Build settings
 markdown: kramdown
 #theme: minima
-remote_theme: macrod68/jekyll-materialize-starter-template
+# Original maintainer's theme commit, preserved in a surviving fork.
+remote_theme: JTorres87/jekyll-materialize-starter-template@b7f127f93f4279081805fe6b948b66e682cb58b3
 plugins:
   - jekyll-feed
   - jekyll-remote-theme

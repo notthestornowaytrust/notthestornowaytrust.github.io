@@ -1,13 +1,22 @@
 source "https://rubygems.org"
 
-# This is the default theme for new Jekyll sites. You may change this to anything you like.
-gem "minima", "~> 2.0"
+# Match GitHub Pages' Jekyll version while allowing patched local plugins.
+gem "jekyll", "~> 3.10.0"
+gem "kramdown", "~> 2.4"
+gem "kramdown-parser-gfm", "~> 1.1"
+gem "rubyzip", ">= 3.4", "< 4"
 
-# If you have any plugins, put them here!
+# Ruby 3.4 supplies these safe_yaml and Liquid dependencies as separate gems.
+gem "base64", "~> 0.3"
+gem "bigdecimal", "~> 3.3"
+
 group :jekyll_plugins do
-  gem 'github-pages'
-  gem "jekyll-feed", "~> 0.6"
-  gem "jekyll-remote-theme"
+  gem "jekyll-feed", "~> 0.17"
+  gem "jekyll-remote-theme", "~> 0.6.2"
+end
+
+group :development do
+  gem "bundler-audit", "~> 0.9", require: false
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
