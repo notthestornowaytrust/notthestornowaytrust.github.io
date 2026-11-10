@@ -12,7 +12,7 @@ gem "bigdecimal", "~> 3.3"
 
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.17"
-  gem "jekyll-remote-theme", "~> 0.6.2"
+  gem "jekyll-remote-theme", "~> 0.6.3"
 end
 
 group :development do
